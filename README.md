@@ -1,3 +1,9 @@
+### Description
+
+This project was a tutorial from a Youtuber called "clever programmer" (https://www.youtube.com/watch?v=1_IYL9ZMR_Y).
+
+In this tutorial I went through few of the reactJS concepts like (Context API, States) and beginner friendly Firebase authentication with form control and user ID fetching through out the session.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
